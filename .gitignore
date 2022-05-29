@@ -16,7 +16,6 @@
 /bin/VER
 /bin/*.sc
 /bsp.log
-/build
 /distro/config.txt
 /distro/setup.bat
 /distro/setup
